@@ -18,7 +18,7 @@ C++
 
 ## Result
 
-picture
+![picture](https://github.com/QiTianyu-0403/Barcode/blob/main/result/1.jpeg)
 
 ## More
 
