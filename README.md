@@ -1,4 +1,4 @@
-# Barcode
+# Barcode📱
 This is a project for recognizing static barcode pictures. It can accurately identify EAN-13 barcodes that are common in life. This project is implemented based on QT. You can run it just by opening the QT project file. Occasionally it will fail to run, which may be caused by the following conditions:
 
 1. OpenCV's configuration file which in ``barcode.pro`` needs to be changed.
