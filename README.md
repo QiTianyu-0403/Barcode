@@ -8,9 +8,9 @@ This is a project for recognizing static barcode pictures. It can accurately ide
 
 ## Enviroment
 
-1. **Operation System:** macOS11.5.2
-2. **Development Platform:** Qt 5.15.1 (Clang 11.0 (Apple), 64 bit)
-3. **Machine Vision:** OpenCV-4.5.3
+1. ***Operation System:*** macOS11.5.2
+2. ***Development Platform:*** Qt 5.15.1 (Clang 11.0 (Apple), 64 bit)
+3. ***Machine Vision:*** OpenCV-4.5.3
 
 ## Result
 
