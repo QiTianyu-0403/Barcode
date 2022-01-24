@@ -18,7 +18,7 @@ C++
 
 ## Result
 
-![picture](https://github.com/QiTianyu-0403/Barcode/blob/main/result/1.jpeg)
+<img src="https://github.com/QiTianyu-0403/Barcode/blob/main/result/1.jpeg" style="zoom:50%;" />
 
 ## More
 
